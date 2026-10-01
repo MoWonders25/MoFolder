@@ -16,3 +16,4 @@ Tip: if your Seedance plan supports image reference, add a fixed character image
 ## Rendered 5-min version (Higgsfield, Seedance 2.5, photoreal)
 Final 1080p file: https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/0a82c666-5dd0-4e2e-ad4e-00c5cadf2cab.mp4
 Clip/voiceover source IDs and the assembly script: `higgsfield_assemble.sh`.
+With captions + ambient music: https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/4285ec3a-ed3e-4d6b-948f-9dc3c7bc0e8e.mp4
