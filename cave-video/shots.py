@@ -35,8 +35,8 @@ SHOTS = [
  "Explorer looks directly at camera and holds up a question mark sign, inviting the viewer, playful",
  # 3:50 DAY 7 TIME
  "A sun icon fades out and a cartoon clock on the cave wall begins to melt like wax",
- "1960s scientist cartoon with beard sits in a tent inside a cave surrounded by notebooks and a lamp",
- "Scientist emerges from cave into daylight, holding calendar showing a much earlier date, shocked face",
+ "1960s geologist cartoon with beard sits in a small tent beside a blue underground glacier, ice chunks falling nearby, notebooks and a lamp",
+ "Scientist emerges from cave into daylight, holding a calendar page reading AUGUST while his team shows SEPTEMBER, shocked face",
  "Explorer scratches tally marks on cave wall, marks begin to blur and wiggle",
  "Explorer yawns and sleeps, wakes up, unsure; floating clocks show 6h, 16h, 30h spinning",
  "Explorer drops a pebble into a pocket after waking, pocket bulges slightly, satisfied nod",

@@ -80,7 +80,7 @@ Quick question — what's the ONE item you'd bring into a cave? Write it in the 
 *VISUAL: Clock melting, sun icon disappearing.*
 
 NARRATOR: But that's not the hardest part. A week in, you notice something strange: you have no idea what time it is.
-Without sunlight, your internal body clock starts drifting. In 1962, French scientist Michel Siffre lived alone in an underground cave for two months. When he came out, he was sure only about 34 days had passed. His brain had lost almost a month!
+Without sunlight, your internal body clock starts drifting. In 1962, French geologist Michel Siffre lived alone 130 meters down the Scarasson abyss in the French Alps, camped beside an underground glacier, for 63 days. Chunks of ice kept crashing down from the ceiling, and mildew slowly rotted his books. When his team called down to say the experiment was over, he thought it was still August and that he had a whole month to go. His brain had lost almost a month!
 *VISUAL: Character counting days on a wall with marks, then marks blurring.*
 Your "days" might stretch to 25, 30, even 48 hours. You sleep when you feel tired, wake up feeling fine… and have no clue if it's been 6 hours or 16.
 Trick: keep a log. Every time you sleep, put one pebble in your pocket. It's not perfect, but it's better than guessing.
@@ -123,7 +123,7 @@ NARRATOR: Then — a sound that isn't your imagination. Voices. A light moving f
 Rescue teams in deep-cave emergencies can involve over a hundred people and take weeks. When they finally reach you, they'll ask what day you think it is.
 *VISUAL: Character proudly holding up a pocketful of pebbles: "Day 22!"*
 And just like Michel Siffre, you'll probably be wrong by more than a week.
-Remember that bizarre result I promised? When scientists studied people living in caves, many naturally slipped into a 48-hour cycle — staying awake 36 hours, then sleeping 12 — and felt completely normal. Your body was secretly running on a different "day" this whole time.
+Remember that bizarre result I promised? In 1972, Siffre went back underground, this time for six months, 440 feet down in Midnight Cave in Texas. His body slipped into a 48-hour cycle, staying awake about 36 hours and then sleeping 12, and he felt completely normal. Your body was secretly running on a different "day" this whole time.
 
 **[9:00 — EXIT & AFTERMATH]**
 *VISUAL: Character emerging at cave mouth, shielding eyes, sunglasses dropped onto face by rescuer.*
@@ -144,5 +144,5 @@ So, would you survive 30 days underground? Tell us your strategy in the comments
 ### Production notes
 - **Visual change cadence:** new shot every 3 s; on-screen numbers ("2,000 m", "DAY 7") pop in with sound effects.
 - **Music:** light quirky underscore, swapping to tension cues at Day 10, 18, and 30.
-- **Fact check before publishing:** cave depth (~2,212 m, Veryovkina), Siffre's 1962 experiment, and flood incident details — update to latest figures.
+- **Fact check before publishing:** cave depth (~2,212 m, Veryovkina), Siffre facts verified (1962 Scarasson: 130 m, 63 days; 1972 Midnight Cave, Texas: 440 ft, 6 months, 48-h cycle); Veryovkina 2018 flood details — update to latest figures.
 - **Shorts cut-downs:** (1) "Your brain loses a month in a cave" (0:45), (2) "Cave fish live 100 years" (0:30), (3) Flood scene (0:40).
