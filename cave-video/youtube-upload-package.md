@@ -107,3 +107,10 @@ Crop to 9:16 and keep under 60 s.
 - [ ] Watch the full video once (scene consistency, captions readable)
 - [ ] Look at all three thumbnails at small size and pick the clearest
 - [ ] Tick "Altered or synthetic content"
+
+## Rendered Shorts (1080×1920, captions + hook text + music)
+| Short | Length | File |
+|---|---|---|
+| 1. "This scientist lost a MONTH underground" | 0:48 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/af200f57-75bf-4792-9e79-7da8bbeb922a.mp4 |
+| 2. "Caves can flood in hours…" | 0:31 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/bf156cc8-7620-43a7-b173-ce2fe4621629.mp4 |
+| 3. "His body switched to a 48-hour day" | 0:28 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/271a35fd-bfab-479a-be7b-23dc3e8bd236.mp4 |
