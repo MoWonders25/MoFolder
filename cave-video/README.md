@@ -12,3 +12,7 @@ Tip: if your Seedance plan supports image reference, add a fixed character image
 ## 5-minute version
 30 shots plus `narration_5min.txt` (~770 words ≈ 5:00):
 `python generate.py --5min && ./assemble.sh --5min` → `final_5min_1080p.mp4`
+
+## Rendered 5-min version (Higgsfield, Seedance 2.5, photoreal)
+Final 1080p file: https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/0a82c666-5dd0-4e2e-ad4e-00c5cadf2cab.mp4
+Clip/voiceover source IDs and the assembly script: `higgsfield_assemble.sh`.
