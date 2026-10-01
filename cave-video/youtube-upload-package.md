@@ -3,8 +3,10 @@
 ## Files
 | Item | Link |
 |---|---|
-| Video (captions + music, upload this one) | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/4285ec3a-ed3e-4d6b-948f-9dc3c7bc0e8e.mp4 |
+| **Video v2 (captions + music, no fish scenes): upload this one** | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/e076c6f9-23d8-495c-a1a3-49e2809424bd.mp4 |
+| Video v1 (old, with fish scenes) | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/4285ec3a-ed3e-4d6b-948f-9dc3c7bc0e8e.mp4 |
 | Clean video (no captions/music, for re-edits) | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/0a82c666-5dd0-4e2e-ad4e-00c5cadf2cab.mp4 |
+| **Thumbnail D: shocked caver face, "TRAPPED 30 DAYS" (recommended)** | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/fff343bb-303f-4e29-978f-7d7f891abf62.jpg |
 | Thumbnail A: "2,200 M DOWN" (shaft) | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/73ddf440-5f1b-4298-b209-2e00a4dc1c85.jpg |
 | Thumbnail B: "THE ROPE SNAPPED" | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/b91b0139-bebc-433d-a9f1-cfb5a524bb36.jpg |
 | Thumbnail C: "DAY 18" (flood) | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/8f772283-74d4-480b-991d-a77439dde4cf.jpg |
@@ -24,8 +26,9 @@ Use B only if you're comfortable with first-person framing on a narrated "you" v
 | A: Looking down the giant shaft | 2,200 M DOWN | A or C |
 | B: Rope snapping, helmet falling | THE ROPE SNAPPED | A |
 | C: Flood reaching the ledge | DAY 18 | A |
+| D: Shocked caver, rope snapping | TRAPPED 30 DAYS | A |
 
-Upload A as the main thumbnail. If your channel has **Test & Compare** (YouTube's thumbnail A/B test), add all three.
+Upload D as the main thumbnail (faces usually get the most clicks). If your channel has **Test & Compare** (YouTube's thumbnail A/B test), add all three.
 
 ---
 

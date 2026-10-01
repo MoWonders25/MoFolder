@@ -51,9 +51,9 @@ SHOTS = [
  # 6:00 DAY 14 CREATURES
  "Headlamp clicks on and reveals a tiny translucent creature crawling across the rock",
  "Close-up of eyeless cave shrimp and tiny springtails, cute, glowing translucent bodies",
- "Pale blind cave fish swimming slowly in clear dark water, ripples of light",
+ "A perfectly still underground pool, a single drop falls from a stalactite sending slow ripples across the black surface, no animals",
  "Macro shot of an olm, a pale blind cave salamander, moving slowly in clear water",
- "Caver looks at own empty food wrapper, then enviously at the calm fish",
+ "Caver unfolds an empty energy-bar wrapper, looks inside, sighs and smiles wryly",
  # 6:50 DAY 18 FLOOD
  "Low rumble: small stones vibrate on the cave floor, caver's eyes widen",
  "Surface footage: heavy storm rain pours onto a mountain, water streams into a cave entrance",
