@@ -8,3 +8,7 @@
 
 Edit `shots.py` to change any prompt; delete that clip and rerun to regenerate only it.
 Tip: if your Seedance plan supports image reference, add a fixed character image for consistency across shots.
+
+## 5-minute version
+30 shots plus `narration_5min.txt` (~770 words ≈ 5:00):
+`python generate.py --5min && ./assemble.sh --5min` → `final_5min_1080p.mp4`

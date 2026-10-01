@@ -4,15 +4,18 @@ Usage:
   pip install requests edge-tts
   export FAL_KEY=...            # your fal.ai key
   export SEEDANCE_MODEL=...     # optional: override the endpoint id if fal renames it
-  python generate.py
+  python generate.py          # 10-min version
+  python generate.py --5min   # 5-min version
 """
 import os, re, sys, time, json, asyncio, pathlib, requests
-from shots import STYLE, SHOTS
+from shots import STYLE, SHOTS, SHOTS_5MIN
+
+FIVE = "--5min" in sys.argv
 
 MODEL = os.environ.get("SEEDANCE_MODEL", "bytedance/seedance-2.0/text-to-video")
 KEY = os.environ["FAL_KEY"]
 HDR = {"Authorization": f"Key {KEY}", "Content-Type": "application/json"}
-OUT = pathlib.Path("clips"); OUT.mkdir(exist_ok=True)
+OUT = pathlib.Path("clips_5min" if FIVE else "clips"); OUT.mkdir(exist_ok=True)
 
 def render(i, prompt):
     dst = OUT / f"{i:03d}.mp4"
@@ -34,6 +37,11 @@ def render(i, prompt):
 
 async def voiceover():
     import edge_tts
+    if FIVE:
+        text = pathlib.Path("narration_5min.txt").read_text()
+        await edge_tts.Communicate(text, "en-US-GuyNeural").save("voiceover_5min.mp3")
+        print("voiceover_5min.mp3 done")
+        return
     md = pathlib.Path("../brightside-video-script.md").read_text()
     lines = re.findall(r"^NARRATOR: (.*)$|^(?!\*|\[|#|\||-|NARRATOR)([A-Z].*)$",
                        md.split("## Part 2")[1].split("### Production notes")[0], re.M)
@@ -42,6 +50,6 @@ async def voiceover():
     print("voiceover.mp3 done")
 
 if __name__ == "__main__":
-    for i, p in enumerate(SHOTS):
+    for i, p in enumerate(SHOTS_5MIN if FIVE else SHOTS):
         render(i, p)
     asyncio.run(voiceover())

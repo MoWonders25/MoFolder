@@ -78,3 +78,16 @@ SHOTS = [
  "Earth cutaway with a tiny dotted line from the surface barely scratching toward the glowing core",
  "Happy explorer waves goodbye at sunny mountain top, camera pulls back to wide sky",
 ]
+
+# 5-minute cut: 30 shots x 10 s = 5:00, matched to narration_5min.txt
+SHOTS_5MIN = [SHOTS[i] for i in (
+    0, 1, 2, 4,          # hook
+    6, 7, 9,             # setup
+    10, 13, 14,          # day 1
+    16, 19, 22,          # day 3
+    23, 24, 28,          # day 7
+    35, 37, 39,          # day 14
+    40, 42, 43, 45,      # day 18
+    47, 49, 51,          # day 25
+    52, 54, 56, 59,      # day 30 + outro
+)]
