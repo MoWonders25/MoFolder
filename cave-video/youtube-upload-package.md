@@ -114,3 +114,7 @@ Crop to 9:16 and keep under 60 s.
 | 1. "This scientist lost a MONTH underground" | 0:48 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/af200f57-75bf-4792-9e79-7da8bbeb922a.mp4 |
 | 2. "Caves can flood in hours…" | 0:31 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/bf156cc8-7620-43a7-b173-ce2fe4621629.mp4 |
 | 3. "His body switched to a 48-hour day" | 0:28 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/271a35fd-bfab-479a-be7b-23dc3e8bd236.mp4 |
+| 4. "Why you can't see your hand in a cave" | 0:40 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/9bd87126-aa95-4379-bbba-5692f1669173.mp4 |
+| 5. "Never drink cave puddle water" | 0:37 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/b6fdd50b-83f3-44d9-bb2d-c5369d7be814.mp4 |
+| 6. "Your rope just snapped…" | 0:25 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/39970c97-451c-4e05-b67d-d466417a4810.mp4 |
+| 7. "Your body after 25 days in the dark" | 0:24 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/c1a16740-aaa3-4d95-9995-7127d67b72e6.mp4 |
