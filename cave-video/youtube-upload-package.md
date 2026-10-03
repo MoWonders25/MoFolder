@@ -117,4 +117,4 @@ Crop to 9:16 and keep under 60 s.
 | 4. "Why you can't see your hand in a cave" | 0:40 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/9bd87126-aa95-4379-bbba-5692f1669173.mp4 |
 | 5. "Never drink cave puddle water" | 0:37 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/b6fdd50b-83f3-44d9-bb2d-c5369d7be814.mp4 |
 | 6. "Your rope just snapped…" | 0:25 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/39970c97-451c-4e05-b67d-d466417a4810.mp4 |
-| 7. "Your body after 25 days in the dark" | 0:24 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/c1a16740-aaa3-4d95-9995-7127d67b72e6.mp4 |
+| 7. "Your body after 25 days in the dark" | 0:24 | https://d2ol7oe51mr4n9.cloudfront.net/user_3K4hocMIWll0AjZb7crtHRLfdYD/10ec847e-006d-427f-807f-c89be1872149.mp4 |
